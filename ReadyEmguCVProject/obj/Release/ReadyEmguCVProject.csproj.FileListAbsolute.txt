@@ -1,0 +1,36 @@
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.ReadyEmguCVProject.resources
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.Properties.Resources.resources
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\ReadyEmguCVProject.exe
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\ReadyEmguCVProject.pdb
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\ZedGraph.dll
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\Emgu.CV.pdb
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\Emgu.CV.xml
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\Emgu.CV.UI.pdb
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\Emgu.CV.UI.xml
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\Emgu.Util.pdb
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\Emgu.Util.xml
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\ZedGraph.xml
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\bin\Release\zh-CN\ZedGraph.resources.dll
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.exe
+C:\Users\Łukasz\Desktop\emgu solution\Simple EmguCV Ready To use Empty Project\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.pdb
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.exe
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.pdb
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\ReadyEmguCVProject.exe
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\ReadyEmguCVProject.pdb
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\ZedGraph.dll
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\Emgu.CV.pdb
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\Emgu.CV.xml
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\Emgu.CV.UI.pdb
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\Emgu.CV.UI.xml
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\Emgu.Util.pdb
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\Emgu.Util.xml
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\ZedGraph.xml
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\bin\Release\zh-CN\ZedGraph.resources.dll
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.ReadyEmguCVProject.resources
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.Properties.Resources.resources
+C:\Users\Andreas\Desktop\BIAI\ReadyEmguCVProject\obj\Release\ReadyEmguCVProject.csproj.GenerateResource.Cache
